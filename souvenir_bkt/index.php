@@ -178,7 +178,7 @@ require("../connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost/Souvenir_Mysql8/souvenir_bkt/";
+var server = "https://bdl-adityailham-souvenir.herokuapp.com/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
